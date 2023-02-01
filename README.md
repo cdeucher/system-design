@@ -1,11 +1,17 @@
 # system-design
 
 10 Essential Software Design Concepts:
+
 ➡️Load balancers
+
 ➡️APIs
+
 ➡️Caches
+
 ➡️Databases
+
 ➡️Network Protocols
+
 ➡️Message queues
 
 ➡️CDNs
@@ -17,7 +23,7 @@
 ➡️Monitoring and analytics
     
     
-[Message queues](https://github.com/cdeucher/product-price-tracking)
+# [Message queues](https://github.com/cdeucher/product-price-tracking)
  
 ![System Design](system-design.jpg)
 
